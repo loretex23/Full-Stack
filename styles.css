@@ -11,7 +11,7 @@ p.miclase{
 }
 div.lista{
     color:pink;
-    text-shadow: black 1px 1px 2px, black 0 0 25px, black 0 0 5px;
+    text-shadow: 1px 1px 2px black, -1px -1px 2px black, 1px -1px 2px black, -1px 1px 2px black;
     width: 350px;
     font-size: 20px;
     font-weight: bold;
